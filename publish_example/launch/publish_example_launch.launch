@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Paccd kage launch file -->
+    <node pkg="publish_example" type="publish_example.py" name="PublishExample"  output="screen">
+    </node>
+</launch>

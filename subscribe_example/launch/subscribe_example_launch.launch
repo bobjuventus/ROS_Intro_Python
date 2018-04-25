@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Paccd kage launch file -->
+    <node pkg="subscribe_example" type="subscribe_example.py" name="topic_subscriber"  output="screen">
+    </node>
+</launch>

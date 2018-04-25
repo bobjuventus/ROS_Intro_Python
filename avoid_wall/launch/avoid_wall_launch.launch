@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Paccd kage launch file -->
+    <node pkg="avoid_wall" type="avoid_wall.py" name="wall_avoid"  output="screen">
+    </node>
+</launch>
