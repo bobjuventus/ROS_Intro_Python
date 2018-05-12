@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg ="my_custom_srv_msg_pkg"
+        type="bb8_move_custom_service_client.py"
+        name="unit3_services_client"
+        output="screen">
+  </node>
+
+</launch>
