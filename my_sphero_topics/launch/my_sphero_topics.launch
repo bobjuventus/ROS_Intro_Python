@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Paccd kage launch file -->
+    <node pkg="my_sphero_topics" type="my_sphero_topics.py" name="my_sphero_topics"  output="screen">
+    </node>
+</launch>

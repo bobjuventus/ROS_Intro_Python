@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg ="my_sphero_services"
+        type="my_sphero_services_client.py"
+        name="my_sphero_services_client"
+        output="screen">
+  </node>
+
+</launch>

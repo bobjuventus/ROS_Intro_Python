@@ -1,0 +1,8 @@
+#goal
+string goal
+---
+#result
+#package_where_message_is/message_type result_var_name
+---
+#feedback
+string feedback
