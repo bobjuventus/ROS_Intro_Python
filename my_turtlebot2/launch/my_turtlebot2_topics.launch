@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="my_turtlebot2"
+        type="my_turtlebot2_topics.py"
+        name="my_turtlebot2_topics"
+        output="screen">
+  </node>
+  
+</launch>

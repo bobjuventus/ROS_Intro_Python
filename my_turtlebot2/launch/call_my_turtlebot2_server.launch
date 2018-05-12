@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg ="my_turtlebot2"
+        type="my_turtlebot2_services_client.py"
+        name="my_turtlebot2_services_client"
+        output="screen">
+  </node>
+
+</launch>
